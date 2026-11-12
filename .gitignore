@@ -1,0 +1,12 @@
+﻿tools/
+downloads/
+env.ps1
+lab-manifest.json
+install-report.json
+deploy.log
+*.log
+*.zip
+*.7z
+*.tmp
+Thumbs.db
+.DS_Store
